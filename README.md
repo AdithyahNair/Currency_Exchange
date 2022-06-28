@@ -10,3 +10,4 @@ This project incorporates JSON parsing, Local Persistence, TableViewCells
 
 This project uses API(https://github.com/public-apis/public-apis#currency-exchange) in order to get the currency exchange rate info. 
 
+Working of the app: https://drive.google.com/file/d/1cOwliLmmwwir636o7Zw0pWYdBp-IJMDV/view?usp=sharing
